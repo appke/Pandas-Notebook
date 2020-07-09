@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+# 忽略文件
+anime-recommendations-database/
+
+
 # Distribution / packaging
 .Python
 build/
