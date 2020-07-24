@@ -17,6 +17,16 @@
 
 
 
+
+
+#### Numpy
+
+- [NumPy — The King of Scientific Computing with Python](https://towardsdatascience.com/numpy-the-king-of-scientific-computing-with-python-d1de680b811d)
+
+
+
+
+
 #### Python
 
 - String
